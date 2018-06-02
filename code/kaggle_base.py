@@ -12,4 +12,5 @@ class KaggleBase(object):
     def fit(self):
         pass
 
-    
+    def temp(self):
+        pass
