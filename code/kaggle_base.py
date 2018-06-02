@@ -1,6 +1,7 @@
 __author__ = 'yuquan'
 import os
 import pandas as pd
+from abc import abstractmethod
 
 class KaggleBase(object):
     def __init__(self):
@@ -13,4 +14,7 @@ class KaggleBase(object):
         pass
 
     def temp(self):
+        pass
+
+    def standarize_data(self):
         pass
