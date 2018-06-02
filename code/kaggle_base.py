@@ -20,3 +20,5 @@ class KaggleBase(object):
     def standarize_data(self):
         pass
 
+    def just_for_fun(self):
+        pass
