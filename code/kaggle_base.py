@@ -22,3 +22,6 @@ class KaggleBase(object):
 
     def just_for_fun(self):
         pass
+
+if __name__ == '__main__':
+    pass
